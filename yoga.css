@@ -45,7 +45,7 @@ body {
 
 .header {
   background-color: #40407a;
-  background-image: url(../images/sunrise.jpg);
+  background-image: url(assets/images/sunrise.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   margin-top: 50px;
@@ -89,11 +89,11 @@ body {
 }
 
 .mat-hero {
-  background-image: url(../images/yogamat.jpg);
+  background-image: url(assets/images/yogamat.jpg);
 }
 
 .lounge-hero {
-  background-image: url(../images/yogalounge.jpg);
+  background-image: url(assets/images/yogalounge.jpg);
 }
 
 .container__schedule-content {
